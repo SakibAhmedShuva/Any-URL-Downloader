@@ -103,10 +103,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Thanks to all contributors
 - Inspired by the need for efficient URL extraction and download management
 
-## Author
-
-Your Name - [@SakibAhmedShuva](https://github.com/SakibAhmedShuva)
-
 ## Support
 
 If you encounter any issues or have questions, please file an issue on the GitHub repository.
