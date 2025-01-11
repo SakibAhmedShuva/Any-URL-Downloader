@@ -24,26 +24,6 @@ cd url-downloader
 pip install -r requirements.txt
 ```
 
-## Usage
-
-### As a Python Script
-
-```python
-from url_downloader import process_files
-
-# Process a single file
-process_files("path/to/your/file.json", "output_directory")
-
-# Process an entire directory
-process_files("path/to/directory", "output_directory")
-```
-
-### Command Line Usage
-
-```bash
-python url_downloader.py
-```
-
 ## Configuration
 
 The script includes several configurable parameters:
